@@ -1,3 +1,4 @@
-use("admin")
+use("sample_training")
 
 // query the database
+db.zips.find().count()
